@@ -1,0 +1,26 @@
+{
+    "name": "employee-tracker",
+    "version": "1.0.0",
+    "description": "Add, track, and delete employees in database",
+    "main": "server.js",
+    "dependencies": {
+      "inquirer": "^7.3.3",
+      "mysql": "^2.18.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/velazquez13/Employee-Tracker"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/velazquez13/Employee-Tracker"
+    },
+    "homepage": "https://github.com/velazquez13/Employee-Tracker"
+  }
